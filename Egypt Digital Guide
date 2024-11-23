@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Egypt</title>
+</head>
+<body>
+    <h1>welcome to Egypt Digital Guide</h1>
+    <div>
+        <video autoplay loop muted>
+            <source src="videoBG3.mp4" type="video/mp4">
+        </video>
+    </div>
+
+</body>
+</html>
